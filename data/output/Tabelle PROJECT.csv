@@ -1,0 +1,350 @@
+ID;PNAME;url;lead;description;pkey;pcounter;assignetype;avatar;originalkey;projecttype
+10002;BANI Entwicklung (Projekt beendet);;b000986;h1. Ablösung von BASIS und NIPO  In der ersten Version werden nur BASIS und NIPO abgelöst In einer weiteren Version soll auch SPICE abgelöst werden, weil der Portalserver scheisse ist ;BANI;2423;3;10011;BANI;software
+10102;Atlassian Produkte (Confluence, JIRA, etc.);;b000675;;ATLAS;152;3;10602;ATLAS;software
+10200;BANI Fachlich (Projekt beendet);;b000986;;BANIF;1095;3;10324;BANIF;software
+10300;BANI-QS (Projekt beendet);;b002006;;BANIQS;921;3;10324;BANIQS;software
+10303;ElektrA (Projekt beendet);;b000255;;ELA;307;3;11402;ELA;software
+10304;Auftragsverwaltung (Staging) (Projekt beendet);;b000255;;AS;36;3;10205;AS;business
+10401;AE-Prozesse (Auftragsverwaltung) (Projekt beendet);;b000137;;AEPRO;653;3;10330;AEPRO;business
+10402;AE-SHUK (Auftragsverwaltung) (Projekt beendet);;b000696;;AESHUK;708;3;10330;AESHUK;business
+10403;AE-VKON (Auftragsverwaltung) (Projekt beendet);;b001184;;AEVKON;844;3;10330;AEVKON;business
+10404;AE-BT Konzern (Auftragsverwaltung) (Projekt beendet);;b000786;Dieses Projekt ist am 31.12.2017 abgeschlossen worden;AEBT;4808;3;13627;AEBT;business
+10405;AE-Leben-Kranken (Auftragsverwaltung) (Projekt beendet);;b000674;;AELK;1534;3;10330;AELK;business
+10500;Auftragsbuch (Projekt beendet);;b001946;;AB;262;3;10324;AB;software
+10600;0089 AKAB-ElektrA SHUKRS privat (Projekt beendet);;b000664;;EN;337;2;14246;EL;software
+10802;Endkunden Antragsstrecken Direktvertrieb/Online (Projekt beendet);;b001853;;EKR;194;3;10324;EKR;software
+11000;AE-Services (Auftragsverwaltung) (Projekt beendet);;b000255;;AESERV;256;3;10330;AESERV;business
+11302;Schaden-/Leistungsregulierung;;b001411;am 26.11.2019 von Classic auf Scrum umgestellt;BOSS;12221;3;12326;BOSS;software
+11400;0089 AKAB-Prozesse (Projekt beendet);;b001242;;AG;1560;3;10324;AG;software
+11403;M-O Web (Projekt beendet);;b002302;;KA;695;2;10324;KA;software
+11413;0085 Outputmanagement (Projekt beendet);;b000690;Das Projekt Outputmanagement hat folgende Kernziele: 1. Umsetzung eines Notfallkonzepts, um bei einem möglichen Ausfall von ITV weiterhin arbeitsfähig zu sein. 2. Ablösung ITV durch STV, hierbei Überführung und Konsolidierung der Dokumente (aktuell: ca. 4.500 Briefe in ITV). 3. Konsolidierung der Prozess- und Systemlandschaft im Umfeld des Outputmanagement. Neben der Neugestaltung eigener Prozesse und Systeme besteht ein weiterer wesentlicher Aspekt in der übergreifenden Abstimmung mit weiteren Projekten, zu welchen technische und organisatorische Schnittstellen und Abhängigkeiten bestehen.;OUTPUT;4595;3;10330;OUTPUT;software
+11503;Continuous Delivery;;b000990;Definition of Done: Aufgabe umgesetzt Tests geschrieben und erfolgreich Pull-Request erstellt und abgenommen Merge in Develop  Storypoints sind wie folgt definiert: 1: wenig Aufwand -> weniger als 1 Tag 3: mittlerer Aufwand -> 1-2 Tage 8: viel Aufwand -> mehr als 3 Tage  --> Bei 3 Vollzeitkräften max. 24 Storypoints pro Sprint;CD;2044;3;16722;CD;software
+11602;KeyCloak;http://architektur/wiki/display/KEYCLOAK;b001591;KeyCloak ist eine OpenSource Idendity und Access Management Software auf Basis des JBoss WildFly. RedHat bietet unter dem Produktnamen RH-SSO Support an (Basis JBoss EAP).;KEYCLOAK;27;3;12701;KEYCLOAK;software
+11604;0089 AKAB-SaPo (Projekt beendet);;b000937;;SAPO;982;3;10324;SAPO;software
+11700;0151 LV und Steuern - Umsetzung (Projekt beendet);;b000078;;ILUS;273;3;10324;ILUS;software
+11800;Antragsstrecken SHUKRS (Projekt beendet);;b002126;;ITANTRSHUK;1390;3;14236;ITANTRSHUK;software
+11900;Classic Template;;b000675;;CLASSIC;858;3;10333;CLASSIC;software
+11902;Scrum Template;;b000675;;SCRUM;18;3;13016;SCRUM;software
+11904;Demo Classic JIRA 2018 (Projekt beendet);;b000729;;DEMOCLASIC;175;3;10333;DEMOCLASIC;software
+11905;Demo Scrum JIRA 2018 (Projekt beendet);;b001441;;DEMOSCRUM;20;3;13019;DEMOSCRUM;software
+12200;SHUK Produktmanagement;;b001104;Hier werden allgemeine Aufgaben außerhalb von Projekten und PMP's verwaltet.;SHUKPM;281;3;10324;SHUKPM;software
+12203;0094 Automatische Betrugserkennung (DUBI) (Projekt beendet);;b001411;;DUBI;79;3;10324;DUBI;software
+12204;0099 Leben-Leistung Todesfall in BOSS (Projekt beendet);;b001411;;BOSSTOD;111;3;10324;BOSSTOD;software
+12207;0086 Archiv 2.0 (Projekt beendet);;b000895;;ARCHIV20;518;3;10324;ARCHIV20;software
+12208;0090 Eingangskanalverarbeitung 2.0;;b000769;;INPUT;2681;3;10324;INPUT;software
+12209;0095 Neues Betriebsmodell Operations (Projekt beendet);;b001090;;NBOPS;11;3;10324;NBOPS;software
+12210;0096 Modernisierung ZAD (Projekt beendet);;b000182;;ZAD;189;2;10324;ZAD;software
+12211;0022 Neugeschäftsinfrastruktur SHUKRS privat (Projekt beendet);;b000942;;NSHUKRSP;409;3;10325;NSHUKRSP;software
+12212;0061 Erhöhung der Dunkelverarbeitungsquote SHUK-Privatgeschäft (Projekt beendet);;b000861;;EEQD;103;3;14245;EEQD;software
+12213;0007 Sicherstellen der Abschlussprozesse VT Leben;;b000124;"am 27.05.2019 umbenannt von ""0007 Optimierung Abschlussprozesse""";OPTABSCH;119;3;10324;OPTABSCH;software
+12214;0234 Integration ProRis-RV-Leben;;b000515;;NRLEBEN;573;3;10324;NRLEBEN;software
+12215;0098 Bestandsverwaltung 2.0 (Projekt beendet);;b000078;;BESTAND20;344;3;10324;BESTAND20;software
+12216;0105 Analyse und Weiterentwicklung technische Plattform AS400 (Projekt beendet);;b000831;;BAVAS400;131;3;10324;BAVAS400;software
+12217;0152 Neues mathematisches Verfahren (Projekt beendet);;b000078;;MATHE;18;3;10324;MATHE;software
+12218;0233 Neue Zulagenverwaltung (Projekt beendet);;b001618;;ZULVER;256;2;10324;ZULVER;software
+12219;0155 Werte/Bescheinigung (Projekt beendet);;b000188;;WERTBESCH;181;3;10324;WERTBESCH;software
+12220;0001 Neue Produkte Leben 2017/2018 (Projekt beendet);;b000942;Dieses Projekt endet Ende Februar 2018;NPL18;299;3;13626;NPL18;software
+12221;0066 Laufende AP Leben (Projekt beendet);;b000015;;LAPL;23;3;10324;LAPL;software
+12222;0127 Implementierung Marke und CD NÜRNBERGER (Projekt beendet);;b000424;;BRAND;110;2;14232;BRAND;software
+12223;0131 Harmonisierung CMS Online / Relaunch IntraNet (Projekt beendet);;b001183;;INTRANET;72;3;10324;INTRANET;software
+12224;0140 Konzernübergreifende Maßnahme zu IDD (Projekt beendet);;b000942;;IDD;57;3;10324;IDD;software
+12225;0145 Einführung eines Rückversicherungsabrechnungssystems Schaden-/Unfall - ProR;;b000861;;PRORIS;24;3;10324;PRORIS;software
+12226;0195 GWG 4. Richtlinie (Projekt beendet);;b000942;;GWG;153;3;14229;GWG;software
+12227;0215 Technische und organisatorische Neuausrichtung der Arbeitsabläufe des V(be);;b000861;Projekt beendet;VERWEGFA;6;3;10324;VERWEGFA;software
+12228;0150 Vertragsänderungen 2.0 (Projekt beendet);;b000078;;VERTRAG20;0;3;10324;VERTRAG20;software
+12229;0167 IDV nach ZDV (Projekt beendet);;b000308;;IDVZDV;79;3;10324;IDVZDV;software
+12231;0168 Erweiterung des Geschäftsmodells Direktvertrieb um ... (Projekt beendet);;b000942;;DIREKTVERT;9;3;14233;DIREKTVERT;software
+12232;0169 Erweiterung der Zahlungsmöglichkeiten auf PayPal und ... (Projekt beendet);;b000308;;PAYPALKRED;2;3;10324;PAYPALKRED;software
+12233;0171 Relaunch und Weiterentwicklung KuPo meinenuernberger.de;;b001051;;MEINENUE;2729;3;10324;MEINENUE;software
+12234;0176 BiPro-Schnittstelle zur Datenübernahme (Projekt beendet);;b000942;;BIPRO420;2;3;14234;BIPRO420;software
+12236;0188 Leben Bestandsmigration: Vorbereitung und Analyse (Projekt beendet);;b000124;;LBMVA;6;3;10324;LBMVA;software
+12237;0190 Neue Produkte Leben 2018 / 2019 (Projekt beendet);;b000942;;NPL19;1943;3;14227;NPL19;software
+12238;0191 Zentrales Anmeldeportal und Anmeldeverfahren (Projekt beendet);;b001183;;LOGIN;20;3;10324;LOGIN;software
+12239;0200 Easy Scan 2018 (Projekt beendet);;b000895;;EASYSCAN18;10;3;10324;EASYSCAN18;software
+12240;0204 Neuordnung der Reisekosten für den angestellten Außendienst (beendet);;b001183;;REISEAUS;21;3;10324;REISEAUS;software
+12243;0221 Neue Produkte Kranken 2018 (Projekt beendet);;b000327;;NPK18;414;3;14228;NPK18;software
+12245;0223 GeoMedis (Projekt beendet);;b001810;;GEOMED;4;3;10324;GEOMED;software
+12246;0227 Neue Produkte SHUK (Projekt beendet);;b000861;;NPS;578;3;14238;NPS;software
+12247;0230 Vorstudie Angebots- und Antragssystem SHU-Gewerbe (Projekt beendet);;b000424;;SHUAA;7;3;14243;SHUAA;software
+12248;0231 G - SHU Produkte 2018 (Projekt beendet);;b000861;;GSHUP18;521;3;13505;GSHUP18;software
+12249;Linie AE-SERV (Projekt beendet);;b000664;;SERV;810;3;10010;SERV;software
+12250;Linie AE-BT;;b000424;Dieses Projekt enthält alle Linienaufgaben der AE-BT  Hier werden die Wartungs- und Weiterentwicklungsaktivitäten beauftragt und gebucht.;BT;6563;3;14250;BT;software
+12251;Linie AE-LK;;b000124;;LK;3178;3;10324;LK;software
+12252;Linie AE-PRO;;b001090;;PRO;5086;3;10324;PRO;software
+12253;Linie AE-SHUK;;b000861;;SHUK;3521;3;10324;SHUK;software
+12254;Linie AE-FIN ;;b000013;;FIN;3186;3;10324;VKON;software
+12256;0157 NOA Stufe 1 (Projekt beendet);;b000015;;NOA;367;3;10324;NOA;software
+12257;0089 AKAB-Routing (Projekt beendet);;b001840;;ARO;359;3;10207;ARO;software
+12258;0059 AgenturManager (AGM);;b000986;;NAM;4405;3;14244;NAM;software
+12259;0129 Endkunden Antragsstrecken Direktvertrieb/Online (EADO);;b003069;Endkunden Antragsstrecken Direktvertrieb Online;EADO;5892;2;10011;EADO;software
+12260;0224 Transformation FA.net für Windows Tablet (Projekt beendet);;b000942;;FANET;455;3;14230;FANET;software
+12261;0177 KFZ-Webservice mit ElektrA (Projekt beendet);;b000424;;ELASHUK;71;3;14239;ELASHUK;software
+12262;0210 Reportingmöglichkeit der Zugriffe auf die Berechnungswebs. NÜRNBE (beendet);;b000424;;RZBN;15;3;14231;RZBN;software
+12264;0019 Prozessoptimierung SHU Gewerbe (Projekt beendet);;b000861;;POPTSHUG;2;3;10324;POPTSHUG;software
+12267;0206 Bestandsübertragung Digitalisieren und optimieren (Projekt beendet);;b000015;;BESTDIGOPT;0;3;10324;BESTDIGOPT;software
+12268;0179 Teilnahme NLV an RIVA (Projekt beendet);;b000524;;NLVRIVA;0;3;14240;NLVRIVA;software
+12269;0208 ERB Elektronische Rechnungsbearbeitung (Projekt beendet);;b000950;;ERB;13;3;10324;ERB;software
+12270;0214 Entwicklung CRM-System für FA (Projekt beendet);;b000942;;CRMFA;0;3;14241;CRMFA;software
+12300;0226 PoC - Bestandsführung Komposit (Projekt beendet);;b000861;;POCBFKOM;59;3;10324;POCBFKOM;software
+12301;0232 Sportect Kombiprodukt Unfall/RS (Projekt beendet);;b000861;;STECTURS;0;3;10324;STECTURS;software
+12400;HR;;b002182;;PERSONAL;5333;2;10201;PERSONAL;software
+12401;0228 bAV-Verwaltungsportal für Arbeitgeber (Projekt beendet);;b000729;;BAVVFA;2;3;10324;BAVVFA;software
+12402;0241 Vergleichsrechner - Team (10_EKS) (Projekt beendet);;b000942;;VGREKS;3;3;14247;VGREKS;software
+12403;0185 Pflege der gesetzlichen Informationspflichten und Deckungsbeiträge (beendet;;b000188;;PDGIPUDB;0;3;10324;PDGIPUDB;software
+12404;0180 Kurzfristige Änderung von Beiträgen und/oder Einstufungskriterien (beendet);;b000424;;KAEBEITESK;49;3;14242;KAEBEITESK;software
+12405;0245 Komplexität Abrechnung (26_EKS) (Projekt beendet);;b000308;;EKS26KA;10;3;10324;EKS26KA;software
+12406;0249 Claims Rules Engine (15b_EKS) (Projekt beendet);;b000942;;EKS15BCRE;0;3;14249;EKS15BCRE;software
+12407;0242 Zielgruppenspezifische Verkaufskonzepte (18_EKS) (Projekt beendet);;b000942;;EKS18ZGSVK;1;3;14248;EKS18ZGSVK;software
+12408;0250 Einkommensschutz (EKS) (Projekt beendet);;b002114;;EKS;2;3;10324;EKS;software
+12409;0205 NOA Stufe 2 (Projekt beendet);;b000015;;NOAS2;1039;3;10324;NOAS2;software
+12411;0243 Makler-CRM Stufe 1 (21_EKS) (Projekt beendet);;b000729;;EKS21MCRM1;483;3;10324;EKS21MCRM1;software
+12412;0182 Wirtschaftliches Abwicklungsergebnis (Projekt beendet);;b001411;;WABWERG;0;3;10324;WABWERG;software
+12413;0246 Transparenzoffensive Leistungsbearbeitung (33_EKS) (Projekt beendet);;b001411;;EKS33TOLB;3;3;10324;EKS33TOLB;software
+12414;0248 Externes Personal für BU-Regulierung (15a_EKS) (Projekt beendet);;b002114;;EKS15AEPBU;0;3;10324;EKS15AEPBU;software
+12415;0244 Professionelle Wettbewerbsbetrachtung (24_EKS) (Projekt beendet);;b002114;;EKS24PWB;0;3;10324;EKS24PWB;software
+12416;0240 Annahmepolitik (5_EKS) (Projekt beendet);;b002114;;EKS5ANPO;0;3;10324;EKS5ANPO;software
+12417;0093 Neue Bestandsführung LV: Konzeption/Implementierung (Projekt beendet);;b000515;;NBLVKI;22082;3;18303;NBLVKI;software
+12419;0199 Tax Compliance System (Projekt beendet);;b000904;;TAXCOMSYS;218;3;10324;TAXCOMSYS;software
+12420;0112 Solvency II - Berücksichtigung Risikokapitalbed. im SAA-Pr. (Projekt beend ;;b001125;;S2BRKBSAAP;11;3;10324;S2BRKBSAAP;software
+12421;0229 Wachstum SHU-Gewerbe (Projekt beendet);;b000052;;WSHUG;19;3;10324;WSHUG;software
+12422;0158 Neues Betriebsmodell SHU-Gewerbe (Projekt beendet);;b000861;;NBMSHUG;53;3;10324;NBMSHUG;software
+12423;0236 NÜRNBERGER Zielplanungssystem (NZS) (Projekt beendet);;b000287;;NZS;195;3;10324;NZS;software
+12424;0113 Unternehmenssteuerung und Fi-Regulierung (Projekt beendet);;b001091;;USFIREG;31;3;10324;USFIREG;software
+12425;Architektur (Projekt beendet);;b001591;;ARC;171;3;10324;ARC;software
+12426;0266 Anbindung xbaV (Stufe 1) (Projekt beendet);;b000729;;AXBAV1;51;3;10324;AXBAV1;software
+12500;0272 Taskforce Dokumente;;b002017;;TFDOK;17;3;10324;TFDOK;software
+12501;M-O Web Analytics (Projekt beendet);;b001962;;MOWA;540;3;10324;MOWA;software
+12600;0301 EasyBT (EKS) (Projekt beendet);;b000942;;EKSEBT;296;3;14237;EKSEBT;software
+12700;OWASP False Positive Approval;;b000990;;OWASP;343;3;10324;OWASP;business
+12800;AE-SERV-Traineeprojekt;;b002288;Projekt für die Trainee-Ausbildung;AESERTRAIN;475;2;10324;AESERTRAIN;software
+12801;0296 Risikoidentifikation - Neukonzeption und Softwareanschaffung(Proj. beendet);;b001061;;RISKNKSW;3;3;10324;RISKNKSW;software
+12900;0306 PoC Neues Standard Provisions System (Projekt beendet);;b000015;;POCNSPS;22;3;10324;POCNSPS;software
+12903;0089 AKAB-Neue Prozesswelt;;b002199;;AKABL;37072;3;10324;AKABL;software
+12904;0304 Medien- und Dokumenten-Management (Projekt beendet);;b000417;;MUDMAN;43;2;14235;MUDMAN;software
+12905;IT-DevOps;;b000990;"Wurde in das Projekt ""Cloud"" migiriert. Besteht aus Revisionsgründen noch im System";DEVOPS;764;3;14702;DEVOPS;software
+12906;CD-Pipeline (Projekt beendet);;b000990;;CDPIP;201;3;10324;CDPIP;software
+13000;0253 PoC Neue Zahlungsverkehrsinfrastruktur/SAP HANA (Projekt beendet);;b000015;;ZFAZVSYS;37;3;10324;ZFAZVSYS;software
+13100;0307 OLG Nürnberg – Umsetzung / Bereinigung Riesterbestand (Projekt beendet);;b000078;;OLGNUBRB;1;3;10324;OLGNUBRB;software
+13201;0309 Einführung PARIS (Projekt beendet);;b000182;;PARIS;5799;3;10324;PARIS;software
+13203;BO Lean Management;;b002251;;BOLM;56;3;10324;BOLM;software
+13302;0239 Neue Produkte Kranken 2019 (Projekt beendet);;b000942;;NPK2019;709;3;10324;NPK2019;software
+13303;0265 Umsetzung Vertriebs-Anliegen BT4all (Projekt beendet);;b000942;;VERANBT;347;3;10324;VERANBT;software
+13304;0279 Neue Angebots- und Portaltechnologie;;b002024;;TVPATEC;3336;2;10324;TVPATEC;software
+13305;0282 Budgetverfahren SHUK (Projekt beendet);;b000942;;BUDGETSHUK;55;3;10324;BUDGETSHUK;software
+13306;0290 Neue Produkte Leben 2019/2020 (Projekt beendet);;b000942;;NPL2019;3116;3;10324;NPL2019;software
+13307;0294 Neue Produkte SHUK 2019 (Projekt beendet);;b000942;;NPS2019;892;3;10324;NPS2019;software
+13308;0258 Fit4GwG (Projekt beendet);;b000942;;GWG2019;7;3;10324;GWG2019;software
+13309;0288 DUBI Stufe 2 (Projekt beendet);;b001411;;DUBIS2;95;3;10324;DUBIS2;software
+13310;0257 Entwicklung/Implementierung Customer Experience Management SHU(Proj. beend);;b000942;;CEMSHU;83;3;10324;CEMSHU;software
+13311;0256 NVC Gewerbe (Projekt beendet);;b000942;;NVC2019;319;3;10324;NVC2019;software
+13312;0298 E-Mail Nutzungskonzept (Projekt beendet);;b001792;;EMAILNK;24;3;10324;EMAILNK;software
+13313;0308 OPEX Programm (Projekt beendet);;b001284;am 22.05.2019 auf Anforderung von BO-PPM umbenannt von 0308 Optimierung Operations-Geschäftsprozesse mit Lean-Methodik;OOGPLM;4;3;10324;OOGPLM;software
+13314;0303 Marketing Management-System (MMS) (Projekt beendet);;b000417;;MMS;31;3;10324;MMS;software
+13315;0235 NÜRNBERGER Asset Management (NAM) (Projekt beendet);;b002271;;NIM;23;3;10324;NIM;software
+13400;0089 AKAB-ElektrA Kranken (Projekt beendet);;b001802;;AKABELKA;116;2;10324;AKABELKA;software
+13401;0260 KOBIS (Projekt beendet);;b000015;;KWBIS;9;3;10324;KWBIS;software
+13402;IT Architektur;;b003069;;ITARC;401;3;10324;ITARC;business
+13403;0274 BOSS-Auswertungsbestand (Projekt beendet);;b000861;;BAWB;8;3;10324;BAWB;software
+13404;0287 Wirtschaftliches Abwicklungsergebnis maschinell ermitteln (Projekt beendet);;b000861;;WAEME;5;3;10324;WAEME;software
+13405;ZeBRA;;b001330;;ZEBRA;221;3;10324;ZEBRA;software
+13406;0292 Versorgungsausgleich (Projekt beendet);;b000397;;VA;41;3;17306;VA;software
+13407;0289 Bestandsmigration Leben (Projekt beendet);;b000674;;BMLVK;25;3;10324;BMLVK;software
+13501;0237 Einführung Com:N;;b003069;"Projektname auf Anforderung von BO-PPM von ""0237 Neues Standard-Provisionssystem"" geändert in ""0237 Einführung Com:N""";NSPS;4031;2;10324;NSPS;software
+13502;0295 Neuaufbau Produktwelt SHU-Gewerbe (Projekt beendet);;b002006;;NPWSHU;534;3;10324;NPWSHU;software
+13503;0238 Auswahl und Implementierung einer neuen CAFM-Software (Projekt beendet);;b000013;;AICAFM;8;3;10324;AICAFM;software
+13504;0310 Anbindung PV-Direktvertrieb (Projekt beendet);;b002147;;ABPVDV;9;3;10324;ABPVDV;software
+13506;0275 EKS in der bAV (Projekt beendet);;b002224;;EKSBAV;5;3;10324;EKSBAV;software
+13507;FaktorZehn - POC neue Bestandsführung (Projekt beendet);;b002113;Individualprojekt für POC neue Bestandsführung des Herstellers FaktorZehn;F10POCNBF;203;3;10324;F10POCNBF;software
+13600;Organisation IT-QTM;;b001664;;ITQTM;173;3;10324;ITQTM;software
+13700;Innoboard;;b001828;;INNO;95;3;10324;INNO;software
+13701;Release-Planung Dev;https://architektur/wiki/x/7gSQBQ;b002288;;REDD;581;3;15426;REDD;software
+13800;Identity- und Access-Management (IAM);;b001638;;IAM;81;3;15606;IAM;software
+13900;Deployment Dev;;b002288;;DPLD;2743;3;15425;DPLD;software
+13902;0370 OPEX Lean Welle 1 (Projekt beendet);;b001284;;OPEXLW1;4;3;10324;OPEXLW1;software
+13903;0312 Kfz-Digital (Projekt beendet);;b001051;;SOAHVO;176;3;10324;SOAHVO;software
+13904;Deployment;https://architektur/wiki/display/RED/Release-Management;b002288;;DPL;33838;3;15424;DPL;software
+14000;Release-Planung;https://architektur/wiki/display/RED/Release-Management;b002288;;RPL;1145;3;15608;RPL;software
+14002;0311 InExkasso 2.0 (Projekt beendet);;b000308;;NZVI;0;3;10324;NZVI;software
+14004;0371 OPEX TaskForce Arbeitsstände (Projekt beendet);;b001284;;OPEXTFAS;3;3;10324;OPEXTFAS;software
+14005;0357 EZB-Meldepflichten (Umsetzung EBAV) (Projekt beendet);;b001781;;EZBMP;13;3;10324;EZBMP;software
+14006;0276 EFFZE:N;;b003069;;EBEKOM;40476;3;10324;EBEKOM;software
+14100;Wilken - PoC Zahlungsverkehr (Projekt beendet);;b000308;Individualprojekt PoC Zahlungsverkehr für Wilken;WPZ;12;3;16202;WPZ;software
+14200;OM-Anforderungsmanagement (Projekt beendet);;b002145;Erfassung und Verwaltung der Anforderungen ans Outputmanagement der NÜRNBERGER.;OMA;482;3;10330;OMA;software
+14300;OMNITRACKER Taskliste;;b002205;;OT;153;3;16406;OT;software
+14400;0313 Neue Produkte Kranken 2020 (Projekt beendet);;b000942;;NPK2020;531;3;10324;NPK2020;software
+14401;0318 Neue Produkte Leben 2020/2021 (Projekt beendet);;b000942;;NPL2020;2542;3;10324;NPL2020;software
+14402;0320 Neue Produkte SHUK 2020 (Projekt beendet);;b000942;;NPS2020;1089;3;10324;NPS2020;software
+14403;0342 DUBI Stufe 3 (Projekt beendet);;b001411;;DUBIS3;6;3;10324;DUBIS3;software
+14404;0325 SAP S4-HANA Conversion (Projekt beendet);;b000950;;SAPS4HC;92;3;10324;SAPS4HC;software
+14405;0328 Refresh nuernberger.de (Projekt beendet);;b002292;;REF2020;1395;2;10324;REF2020;software
+14406;0337 Arbeitgeber-Verwaltungsportale Stufe 2 (Projekt beendet);;b001652;;AVP2020;39;2;10207;AVP2020;software
+14407;0350 BIPRO-Bestandsprozesse (non-TAA);;b000424;;BBP2020;160;3;10324;BBP2020;software
+14408;0381 OPEX (Projekt beendet);;b001090;;OUST;211;3;10324;OUST;software
+14409;0324 Makler-CRM (=VertriebsCockpit) - Ausbaustufe 2 (Projekt beendet);;b000424;;VCS2;270;3;10324;VCS2;software
+14410;0326 Vertriebsportal (Projekt beendet);;b000424;;RVP2020;64;3;10324;RVP2020;software
+14411;0331 Controlling Vergütungsbegrenzung (Projekt beendet);;b002324;;CVB;13;2;10324;CVB;software
+14412;0332 Ablösung NÜRNBERGER Portal (SPICE) (Projekt beendet);;b000424;;ANP2020;118;3;10324;ANP2020;software
+14413;0338 BOSS-Leistung Konsolidierung und Effizienzsteigerung (Projekt beendet);;b001411;;BLKES;7;3;10324;BLKES;software
+14414;0386 Robotics;;b003069;;ROBO20;3126;2;18400;ROBO20;software
+14417;0335 Anbindung msg.LifeGroup (Projekt beendet);;b001652;;AKBF;1;2;16604;AKBF;software
+14418;0334 Optimierung Prozesse Neue Zulagenverwaltung;;b001618;;OPNZV;2079;3;10324;OPNZV;software
+14419;0344 Nacharbeiten LF (NaLF) (Projekt beendet);;b001661;;NALF;0;3;10324;NALF;software
+14500;0354 Celonis 2.0 (Projekt beendet);;b001671;;CELON2;14;3;10324;CELON2;software
+14501;0322 PROMT 2.0 (Projekt beendet);;b000902;;PROMT20;1361;3;10324;PROMT20;software
+14600;0388 Doppelte Abschlusskosten Riester (Projekt beendet);;b000124;;RIES2ABK;25;3;10324;RIES2ABK;software
+14601;Cloud;;b000990;Definition of Done: - Aufgabe umgesetzt - Tests geschrieben und erfolgreich - Pull-Request erstellt und abgenommen - Merge in Develop  Storypoints sind wie folgt definiert: -  1: wenig Aufwand -> weniger als 1 Tag -  3: mittlerer Aufwand -> 1-2 Tage -  8: viel Aufwand -> mehr als 3 Tage;CLOUD;467;3;16728;CLOUD;software
+14700;Anforderungsmanagement Leben;;b003069;;AML;1092;2;10324;AML;software
+14800;0392 Kundenservice Corona (Projekt beendet);;b001632;;BAVUNTSZ;92;3;10324;BAVUNTSZ;software
+14900;Testdatenmanagement;;b003069;;TDM;67;3;10202;TDM;software
+15000;0423 E-Akte 2020 (Projekt beendet);;b000895;;EAKTE;43;3;10324;EAKTE;software
+15001;0425 PoC Neue Bestandsführung Kranken (Projekt beendet);;b002224;;POCNBK;2;3;10324;POCNBK;software
+15002;0399 Private Produktwelt SHU (Projekt beendet);;b002179;;PPSHU;529;3;10324;PPSHU;software
+15003;0430 NAU-Vertriebsgesellschaft (Projekt beendet);;b002182;;NAUVG;17;3;10324;NAUVG;software
+15004;IDVnachZDV – Pauschalsteuer (Projekt beendet);;b001646;;IDVZDVPS;183;2;10324;IDVZDVPS;software
+15100;TestTechs;;b002179;;TTECH;444;3;10324;TTECH;software
+15101;NAM-PartnerDB;;b002067;;NAMDB;71;3;10324;NAMDB;software
+15102;Briefadministration STV / IB_STV;;b000905;;DOKUMENSTV;4786;3;10324;DOKUMENSTV;software
+15103;AKAB Anforderungsmanagement;;b000201;;AMAKAB;1625;3;10330;AMAKAB;software
+15104;Partner;;b000664;;PRODPARTNR;748;3;10324;PRODPARTNR;software
+15201;NBB-DL;;b000137;;NBBDL;11;3;10324;NBBDL;software
+15300;AE-Ausbildung;;b002033;In diesem Projekt werden sämtliche Projekte der Abteilung AE-Ausbildung verwaltet.;AEAUSB;796;3;17601;AEAUSB;software
+15301;BI/Analytics-CC (Projekt beendet);;b003069;;BIAC;352;3;10324;BIACC;software
+15401;0427 SCHDN 2.0;;b001411;;SCHDN20;13;3;10324;SCHDN20;software
+15500;UI-Kit;;b001942;;UIKIT;20;3;10324;UIKIT;software
+15600;AE Leben-Kranken JourFixe;;b002224;;AELKJF;22;2;10324;AELKJF;business
+15700;Cloudsysteme (Projekt beendet) (archiviert);;b003069;;CLOUDSYS;416;3;18500;CLOUDSYS;software
+15800;0360 Kooperation humanoo (Projekt beendet);;b001051;;KOHUM2021;27;3;10324;KOHUM2021;software
+15801;0389 Neue Produkte Kranken;;b001051;;NPK2021;1430;3;10324;NPK2021;software
+15802;0390 HOST-Ablösung von HR-Prozessen (Projekt beendet);;b000308;;HOSTABHR;5;3;10324;HOSTABHR;software
+15803;0395 Neue Produkte Leben 2021/2022 (Projekt beendet);;b000424;;NPL2021;3172;3;10324;NPL2021;software
+15804;0396 Neue Produkte SHUKRS;;b001051;;NPS2021;3152;3;10325;NPS2021;software
+15805;0397 Akkumulations- und Risikoidentifikationssystem (Projekt beendet);;b000861;;AKKRISKID;0;3;10209;AKKRISKID;software
+15806;0403 Basisentwicklung E-Mail Marketing (Projekt beendet);;b001051;;BEM2021;48;3;10324;BEM2021;software
+15807;0404 Einführung eines Endkunden CRM;;b003069;;ECRM2021;1024;3;10324;ECRM2021;software
+15808;0406 1:1 CFS;;b001051;;CFS2021;64;3;10324;CFS2021;software
+15809;0408 bAV-Portale;;b000424;;BAV2021;255;3;10325;BAV2021;software
+15810;0411 ZEPA (Zentrales physisches Archiv) (Projekt beendet);;b000895;;ZEPA;5;3;10324;ZEPA;software
+15811;0419 SAP Migration BW to HANA (Projekt beendet);;b002008;;SAPBWHANA;72;3;10324;SAPBWHANA;software
+15812;0422 Datenversorgung Portale (Projekt beendet);;b000424;;DVP2021;23;3;10324;DVP2021;software
+15813;0432 Targenio Releasewechsel (Projekt beendet);;b001671;;TARGREL;2;3;10324;TARGREL;software
+15814;0434 DUBI Stufe 4 (Projekt beendet);;b001411;;DUBI4;5;3;10324;DUBI4;software
+15815;0435 LV und Steuer 2.0;;b000124;;LVST2021;2895;3;10324;LVST2021;software
+15900;0426 Verschmelzung NBL-NLV;;b003069;;NBLNLV;35;3;10324;NBLNLV;software
+15901;0385 KLuB (Projekt beendet);;b001064;;NBK2021;732;3;10324;NBK2021;software
+15902;0391 INSL;;b001411;;BOSS2021;4;3;10324;BOSS2021;software
+15903;0393 VertriebsCockpit;;b001051;;VCP2021;288;3;10324;VCP2021;software
+15904;0401 NDS-Web (Projekt beendet);;b000424;;NDS2021;8;3;10324;NDS2021;software
+15905;0407 Kundenzentrierung (Projekt beendet);;b001869;;KN2021;834;3;19804;KN2021;software
+15906;0409 Celonis (Projekt beendet);;b001671;;CELON3;8;3;10324;CELON3;software
+15907;0410 E-Akte;;b001317;;EAKTE2021;390;2;10324;EAKTE2021;software
+15908;0420 PARIS (Projekt beendet);;b000942;;PARIS2021;1;3;10324;PARIS2021;software
+15909;0429 Löschen codierter Daten (LCD) in BOSS (Projekt beendet);;b001411;;LCDBOSS;1;3;10324;LCDBOSS;software
+15910;0438 HUK-EKS (Projekt beendet);;b001411;;HUKEKS;2;3;10324;HUKEKS;software
+15911;0421 Vertriebscontrolling 2025;;b002182;;VC2025;2;3;10324;VC2025;software
+15912;0418 Datenmanagement (Projekt beendet);;b002182;;DMGMT;1;3;10324;DMGMT;software
+15913;Anforderungsmanagement Schaden-Leistung;;b000071;;ANFSCHL;460;3;10324;ANFSCHL;software
+15914;QChainz;;b002215;;QCHAINZ;1579;2;18800;QCHAINZ;software
+16000;0439 Dokumentadministration Korrespondenzplattform;;b000942;;OUTKPNP;31;3;10324;OUTKPNP;software
+16001;0417 Bestandsführung Lebe:N;;b003069;;WELF;2290;3;10324;WELF;software
+16101;Bestand Leben;;b003069;;LEBEN;52113;3;10324;LEBEN;software
+16102;0412 E-Rechnung (Projekt beendet);;b000308;;ERECH;15;3;10324;ERECH;software
+16103;0440 Ausbau Digitalisierung HR-Prozesse;;b001680;;ADHRP;757;3;10324;ADHRP;software
+16104;Outputmanagement;;b000524;;OM;2815;3;30705;OM;software
+16105;0441 HR Reports und Management Self Service (Projekt beendet);;b000998;;HRRMSS;383;3;10324;HRRMSS;software
+16106;Strategisches Marketing;https://projektmanagement/jira/projects/STMARK/summary;b002059;;STMARK;67;2;10324;STMARK;software
+16200;3Party Image Approval;;b000990;;PIA3NEU;363;3;10324;PIA3NEU;business
+16301;FutureWork:N;;b002149;;FWN;1;3;10324;FWN;software
+16400;VICOS;;b002182;;BIKI;751;3;10324;BIKI;software
+16500;Zielbild SHUK;;b001104;;ZBSHUK;0;3;10324;ZBSHUK;software
+16600;Container Image Scan;;b000990;;CIS;4824;3;10324;CIS;business
+16700;Demandmanagement;;b002179;;DEM;472;3;10324;DEMGMT;software
+16800;0457 Dunkelverarbeitung Antrag Leben;;b001792;;DVAL;199;3;10324;DVAL;software
+16900;Automatisierung IT-B-AW ;;b003069;"Für technische Modul- und Script-Entwicklung zur vereinfachten Administration von technischen Subsystemen; keine klassische Anwendungs-Software-Entwicklung für Endanwender; (Automatisierung der IT-B-AW mit Ansible tracken)";AITBAW;175;3;10324;AITBAW;software
+16901;Bereichsübergreifende Personalkosten;;b001794;;BUEPEK;46;3;10324;BUEPEK;business
+17000;Compliance und Recht;;b001716;;COMRE;22;3;10203;COMRE;business
+17100;0448 Zentrale Risikoprüfungskomponente Leben (Projekt beendet);;b001792;;ZRPKL;1;3;10324;ZRPKL;software
+17200;Produkt Template;;b000675;;PRODUKT;0;3;10324;PRODUKT;software
+17300;Linie AE-KV;;b001064;;KV;715;3;10324;KV;software
+17500;Anforderungen Digitale Vertriebsunterstützung;;b000690;;ADV;440;3;10324;ADV;software
+17501;0462 Wüstenrot (Projekt beendet);;b001621;;WUEST;109;3;10324;WUEST;software
+17600;0436 NKV-Anbindung Telematikinfrastruktur;;b001064;;NATI;110;3;10324;NATI;software
+17700;0463 Kooperation BAYERISCHE - Pangaea Life(Projekt beendet);;b002172;;KBPL;25;3;10324;KBPL;software
+17801;0446 Digitale Rentenübersicht;;b000674;;DRENT;1;3;10324;DRENT;software
+17901;0450 ZMV-Digital (Projekt beendet);;b001411;;ZMVD;1;3;10324;ZMVD;software
+17902;0451 BOSS-BU 2022 (Projekt beendet);;b001411;;BOSSBU;3;3;10324;BOSSBU;software
+17903;0456 Einführung RAN und TaxData;;b000674;;RUTD;74;3;10324;RUTD;software
+17904;0465 Aufbau eines GwG-Service;;b000188;;GWGS;694;3;10324;GWGS;software
+17906;0455 RENO (Projekt beendet);;b002272;;RENO;82;2;10324;RENO;software
+17907;0461 e-Antrag FrankeBornberg-Softfair;;b000424;;EAFBS;237;3;10324;EAFBS;software
+17908;0464 Dok:N;;b003069;;MITV;206;3;10324;MITV;software
+17909;0447 XEMPUS Plattform (Projekt beendet);;b000424;;XEMPUS;25;3;10324;XEMPUS;software
+17910;0452 Brieftaube (Projekt beendet);;b001411;;BRIEF;6;3;10324;BRIEF;software
+18101;0395 Neue Produkte Leben;;b000424;;NPL;4749;3;10324;NPL;software
+18200;0433 Cash Management;;b000907;;CASHM;472;3;10324;CASHM;software
+18300;0394 Digital Procure-to-Pay (Projekt beendet);;b001599;;DPTP;274;3;10324;DPTP;software
+18400;MK Leben Programme;;b001666;;MKP20;235;3;10324;MKP20;software
+18500;Facharchitektur;;b002251;;FAC;163;3;10324;FAC;software
+18600;UX/UI;;b003069;;UXUI;298;3;10204;UXUI;software
+18800;0467 Kostenverteilung neu;;b001959;;KVERTN;277;3;10324;KVERTN;software
+18900;Webcontentmanagement-System;;b002292;;WCMS;1513;2;10207;WCMS;software
+19000;E2E-Tests;;b003069;;E2ET;257;3;10324;E2ET;software
+19001;Steuerabteilung;;b002142;;TAX;26;3;10324;TAX;business
+19100;Fachliches Anforderungsmanagement KBM Leben;;b003069;;KBMFAM;383;3;10324;KBMFAM;software
+19101;Kundenservice IOS;;b003069;;KSIOS;398;3;10324;KSIOS;software
+19200;Marketing Insights;;b002128;;MARKIN;271;3;10324;MARKIN;software
+19300;Leben Agil;;b000696;;LAGIL;1942;3;10324;LAGIL;software
+19400;Vertrieb Recruiting und Vertriebszugänge;;b001491;;VRVZ;218;3;10324;VRVZ;software
+19500;Digitalisierung mit Persis;;b001680;;DIGIP;35;3;10324;DIGIP;software
+19600;HUK EKS;;b001795;;HEKS;76;3;10324;HEKS;software
+19700;Marketingmanager;;b000417;;MMNG;0;3;10324;MMNG;software
+19800;AM-EKV (Projekt beendet);;b000820;;AMEKV;214;3;10324;AMEKV;software
+19900;Pricing Schaden / Unfall;;b001918;;PSU;213;3;10324;PSU;software
+20000;0469 Einführung bKV Portal;;b000424;;EBKVP;44;3;10324;EBKVP;software
+20001;0470 EWE Opt-In-Out;;b002179;;EOIO;3;3;10324;EOIO;software
+20100;Fachliches Anforderungsmanagement Kranken;;b001320;;KBMFAKV;68;3;10324;KBMFAK;software
+20101;Anforderungsmanagement Composit - Vertrieb;;b003069;;AMCV;209;3;10324;AMCV;software
+20102;0471 Einführung SIEM-System;;b003069;;SIEM;2;3;10324;SIEM;software
+20200;Linie AE-BIACC;;b002154;;LBIA;1051;3;10324;LBIA;software
+20201;0468 Modern IT-Workplace mit Microsoft 365;;b003069;;M365;3;3;10324;M365;software
+20300;Keycloak Service Desk;https://architektur/wiki/display/KEYCLOAK;b001591;Automatisierung von Prozessen rund um das Thema Keycloak.;KC;1;3;29201;KC;business
+20400;Kundenzentrierung;;b002019;;KDZ;246;3;29703;KDZ;software
+20500;Recruiting der Zukunft;;b002375;;RDZ;168;3;10324;RDZ;software
+20600;FAM Projekte, Prozesse, Inkasso;;b000823;;FAMPPI;113;3;10324;FAMPPI;software
+20800;0472 neue Steuermeldung Krankheitskostenversicherung;;b001064;;NSKKV;28;3;10324;NSKKV;software
+20900;Self Service Portal Betrieb;;b001081;;SSPB;8;3;10324;SSPB;software
+21000;0473 CSRD Nachhaltigkeitsberichterstattung;;b001391;;CSRD;24;3;10324;CSRD;software
+21100;Programm-Management;;b003069;;PRGM;155;3;10324;PRGM;software
+21200;API Gateway;https://architektur/wiki/display/APIGW;b001591;Entwicklung und Wartung des API Gateways auf Basis von Spring Cloud Gateway.;APIGW;64;3;31100;APIGW;software
+21201;Move IT;;b001411;;MOV;35;3;10324;MOV;software
+21300;POC Ablösung DOPIX - kwsoft;;b003069;;PADK;321;3;10011;PADK;software
+21301;Fachliches Anforderungsmanagement SHUK PP;;b002149;;FAMSHUKP;212;3;10324;FAMSHUKP;software
+21400;testprojekt;;b000675;;TES;22;3;10324;TES;software
+21500;AGIL Dev;;b000675;;ADE;420;3;10324;ADE;software
+21600;Automatisierung Betrieb;;b000990;;AUBE;3;3;10324;AUBE;software
+21601;Anforderungsmanagement Tech Stream;;b003069;;AMTECHST;558;2;10324;AMTECHST;software
+21700;Anforderungsmanagement BIACC;;b002154;;AMBIACC;127;3;10324;AMBIACC;software
+21800;Linie AE-COMN;;b000983;;COMN;343;3;10324;COMN;software
+21801;Linie AE-COCO;;b000895;;COCO;38;3;10324;COCO;software
+21802;Linie AE-ZV;;b000308;;ZV;90;3;10324;ZV;software
+21803;Linie AE-HR;;b001136;;HR;90;3;10324;HR;software
+21900;0476 SalesN:avi;;b003069;;SALN;32;3;10324;SALN;software
+22000;0477 NUSI;;b000861;;NUSI;56;3;10324;NUSI;software
+22001;0481 BTpur;;b000424;;BTPUR;624;3;10324;BTPUR;software
+22002;0482 Update IT-Infrastruktur;;b000424;;UPIN;25;3;10324;UPIN;software
+22003;0483 aus 3 mach 1;;b000861;;A3M1;0;3;10324;A3M1;software
+22004;0480 DORA;;b002140;Aus der DORA ergeben sich neue, über die VAIT hinausgehende weitreichende Anforderungen für die IT und IT-Governance und die Steuerung von IKT-Risiken und IKT-Dienstleistern.  In einer Vorstudie in 2023 wurde durch eine FIT-GAP-Analyse identifiziert, für welche Anforderungen aus der DORA-Verordnung die Nürnberger bereits Maßnahmen etabliert hat und an welchen Stellen noch Handlungsbedarf besteht. Als Ergebnis aus der Vorstudie wurde ein konkreter Maßnahmenkatalog (58 Maßnahmen) sowie eine Umsetzungsplanung für das Jahr 2024 entwickelt. ;DORA;33;3;34403;DORA;software
+22005;0475 XEMPUS bEKS;;b000424;;XEMP;2;3;10324;XEMP;software
+22100;Linie AE-CST;;b003069;;CST;88;3;10324;CST;software
+22101;Beratungstechnologie;;b000424;;BTL;1811;3;10324;BTL;software
+22200;0442 HR-Suite (Vorstudie);;b001680;;HRS;2;3;10324;HRS;software
+22301;Komposit;;b001849;;KOMP;2921;3;10324;KOMP;software
+22400;0478 GuV in SAP;;b000924;;GUV;2;3;10324;GUV;software
+22501;Onlineredaktion;https://projektmanagement/jira/browse/ONRED;b000989;;ONRED;295;3;35201;ON;software
+22502;0485 Produktpaket Leben 01.2025;;b003069;;PPL25;86;3;10324;PPL25;software
+22503;0484 Barrierefreiheitsstärkungsgesetz;;b003069;;BFSG;15;3;10324;BFSG;software
+22600;MK Leben;;b001818;;MKL;0;3;10324;MKL;software
+22700;IT-Qualifizierung;https://architektur/wiki/display/AEQ;b002033;;QUAL;147;3;10011;QUAL;software
+22800;0487 Pluto;;b001337;;PLUTO;11;3;10324;PLUTO;software
+22900;0489 eVB Systemerneuerung;;b000424;;EVBSE;72;3;10324;EVBSE;software
+22901;0488 Vorstudie Ablösung VICOS;;b002154;;VAV;27;3;10324;VAV;software
+23000;Anforderungsmanagement DEV;;b000541;;AMD;2;3;10324;AMD;software

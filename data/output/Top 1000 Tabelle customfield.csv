@@ -1,0 +1,307 @@
+ID;CUSTOMFIELDTYPEKEY;CUSTOMFIELDSEARCHERKEY;cfname;DESCRIPTION;defaultvalue;FIELDTYPE;PROJECT;ISSUETYPE;cfkey;lastvalueupdate;issueswithvalue
+10000;com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Markiert;Erlaubt diesen Vorgang mit Hindernissen zu markieren.;;;;;;2025-01-13 13:29:06.980;2832.0
+10001;com.atlassian.jira.plugin.system.customfieldtypes:labels;com.atlassian.jira.plugin.system.customfieldtypes:labelsearcher;Epic/Thema;Dieses Feld hilft ihre Vorgänge unter einem Epic oder einem Thema zu gruppieren.;;;;;;2023-08-01 12:56:27.427;0.0
+10002;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Story-Punkte;Messung der Komplexität und/oder der Größe der Anforderung.;;;;;;2025-01-13 16:29:07.140;38995.0
+10003;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Geschäftswert;Messung des Geschäftswertes dieser Anforderung.;;;;;;2024-06-07 11:07:22.900;16.0
+10004;com.pyxis.greenhopper.jira:gh-epic-link;com.pyxis.greenhopper.jira:gh-epic-link-searcher;Epic-Verknüpfung;Wählen Sie einen Epic aus, dem Sie diesen Vorgang zuordnen wollen.;;;;;;2025-01-13 17:29:07.200;0.0
+10005;com.pyxis.greenhopper.jira:gh-epic-status;com.pyxis.greenhopper.jira:gh-epic-status-searcher;Epic-Status;"Das Feld ""Epic-Status"" ist nur zur Verwendung mit Jira Software vorgesehen.";;;;;;2025-01-08 14:15:20.413;12487.0
+10006;com.pyxis.greenhopper.jira:gh-epic-label;com.pyxis.greenhopper.jira:gh-epic-label-searcher;Epic-Name;Geben sie einen kurzen Namen für dieses Epic an.;;;;;;2025-01-13 16:29:07.140;12557.0
+10007;com.pyxis.greenhopper.jira:gh-epic-color;com.pyxis.greenhopper.jira:gh-epic-color-searcher;Epic-Farbe;"Das Feld ""Epic-Farbe"" ist nur zur Verwendung mit Jira Software vorgesehen.";;;;;;2025-01-13 16:29:07.140;12067.0
+10008;com.pyxis.greenhopper.jira:gh-sprint;com.pyxis.greenhopper.jira:gh-sprint-searcher;Sprint;Jira Software-Sprint-Feld;;;;;;2025-01-13 17:29:07.200;95185.0
+10009;com.pyxis.greenhopper.jira:gh-lexo-rank;com.pyxis.greenhopper.jira:gh-lexo-rank-searcher;Rang;Globales Rangfeld, nur zur Verwendung mit Jira Software vorgesehen.;;;;;;2025-01-13 17:29:07.200;0.0
+10100;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Entwickler;;;;;;;2025-01-13 17:29:07.200;7568.0
+10101;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Reviewer;;;;;;;2019-08-13 13:10:10.243;1675.0
+10102;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Qualitätssicherer;;;;;;;2019-11-19 16:46:01.830;2069.0
+10201;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Deployment Umgebung;;;;;;;2018-10-11 12:02:38.180;142.0
+10312;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Aufwand [PT];Aufwand [PT] created by JIM during import process;;;;;;2014-07-16 12:30:38.000;11.0
+10313;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Ad hoc Aufwand;Ad hoc Aufwand created by JIM during import process;;;;;;2014-02-20 08:48:15.000;7.0
+10314;com.atlassian.jira.plugin.system.customfieldtypes:multiselect;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Abteilungsübergreifend;Abteilungsübergreifend created by JIM during import process;;;;;;;0.0
+10315;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;ID extern;ID externes System (z. B. Mantis, msg-JIRA, etc.);;;;;;2025-01-13 16:29:07.140;11672.0
+10316;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Vorgabe prüfen;Vorgabe prüfen created by JIM during import process;;;;;;2014-02-20 08:48:15.000;6.0
+10317;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Aktionsnr;Aktionsnr created by JIM during import process;;;;;;;0.0
+10318;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Ansprechpartner Fachbereich;;;;;;;2025-01-13 16:29:07.140;6158.0
+10321;com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Freigegebene Benutzer;Diese Benutzer haben zusätzliche Sichtberechtigung;;;;;;2018-01-04 15:51:47.213;1092.0
+10324;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Planungsthema;;;;;;;2025-01-10 13:15:24.307;308186.0
+10326;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Verantwortlicher Mitarbeiter;;;;;;;2022-03-23 08:28:45.140;8441.0
+10327;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Zieltermin;;;;;;;2024-10-16 14:11:53.660;8863.0
+10328;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Zuständige Führungskraft;;;;;;;2018-02-28 17:12:57.387;8420.0
+10329;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Zuständige OE;;;;;;;2024-12-19 14:15:27.537;1101.0
+10330;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Digitalisierungs- projekt;;;;;;;2022-12-21 16:58:24.813;92577.0
+10331;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Zielsetzung;;;;;;;2025-01-13 14:29:07.030;309353.0
+10332;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Planungsart;;;;;;;2022-12-21 16:58:24.813;92577.0
+10333;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Projekttyp;;;;;;;2025-01-13 17:29:07.200;308148.0
+10400;com.onresolve.jira.groovy.groovyrunner:jqlFunctionsCustomFieldType;com.onresolve.jira.groovy.groovyrunner:jqlFunctionsSearcher;issueFunction;Field created by script runner plugin for advanced issue functions. Do not place on any screen.;;;;;;;0.0
+10500;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Abnahme - Auswahl;;;;;;;2018-04-17 14:56:32.750;8690.0
+10501;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Planjahr;;;;;;;2022-12-21 16:58:24.813;110273.0
+10502;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;SAP-Anwendungssystem;;;;;;;2025-01-13 17:29:07.200;308199.0
+10600;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Art;;;;;;;2022-12-21 16:58:24.813;91475.0
+10601;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Vertriebsweg;;;;;;;2022-12-21 16:58:24.813;91476.0
+10602;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;betroffener Bereich;;;;;;;2022-12-21 16:58:24.813;91475.0
+10603;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Bereichsspezifizierung;;;;;;;2022-12-21 16:58:24.813;91475.0
+10604;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Anliegenkategorie;;;;;;;2022-12-21 16:58:24.813;91475.0
+10605;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Ergebnis Anliegen;;;;;;;2023-07-11 10:06:26.680;93332.0
+10606;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;VIP-Beteiligung;;;;;;;2022-12-21 16:58:24.813;91475.0
+10607;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Betreff;;;;;;;;0.0
+10608;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Anliegenbeschreibung;;;;;;;;0.0
+10609;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Anliegenkategorie II;;;;;;;2022-12-21 16:58:24.813;91475.0
+10610;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Bewertung Anliegen;;;;;;;2022-12-21 16:58:24.813;91475.0
+10611;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Anliegenführer;;;;;;;2022-12-21 16:58:24.813;91474.0
+10612;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Name Anliegenführer;;;;;;;;0.0
+10701;com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Sparte;;;;;;;2025-01-10 14:15:24.363;1669.0
+10800;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Ablehnungsgrund;Grund der Ablehnung eines Auftrags.;;;;;;2025-01-10 16:15:24.460;2248.0
+11000;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Ideengeber;;;;;;;2021-08-26 09:21:37.397;17.0
+11001;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Ideenbeschreibung;;;;;;;2021-08-26 09:21:37.397;0.0
+11002;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Lösungsweg;;;;;;;2021-08-26 09:21:37.397;0.0
+11100;com.atlassian.jira.plugin.system.customfieldtypes:multiselect;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Umgebung;"<script type=""text/javascript"">
+(function($) {
+ 
+    AJS.$(""#customfield_11100 option[value='-1']"").remove(); //Removes the default value ""None""
+    function convertMulti(id){
+        if (AJS.$('#'+id+""-textarea"").length == 0){
+            new AJS.MultiSelect({
+                element: $(""#""+id),
+                itemAttrDisplayed: ""label"",
+                errorMessage: AJS.params.multiselectComponentsError
+            });
+        }
+    }
+  
+    AJS.toInit(function(){   
+        convertMulti(""customfield_11100"");
+    });
+    JIRA.bind(JIRA.Events.NEW_CONTENT_ADDED, function (e, context) {
+        AJS.$(""#customfield_11100 option[value='-1']"").remove();
+        convertMulti(""customfield_11100"");
+    });
+  
+})(AJS.$);
+</script>";;;;;;2025-01-13 16:29:07.140;154675.0
+11201;com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Mitarbeiter;;;;;;;2025-01-13 17:29:07.200;31275.0
+11300;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Dreifaltigkeit;;;;;;;2022-12-21 17:13:24.737;305584.0
+11400;com.tempoplugin.tempo-accounts:accounts.customfield;com.tempoplugin.tempo-accounts:accounts.searcher;Account;Verknüpfen Sie die Arbeitszeiten und Ausgaben dieses Vorgangs mit einem Account.;;;;;;;
+11401;com.tempoplugin.tempo-teams:team.customfield;com.tempoplugin.tempo-teams:team.searcher;Team;Tempo Team Custom Feld;;;;;;;
+11402;com.tempoplugin.tempo-teams:team.role.customfield;com.tempoplugin.tempo-teams:team.role.searcher;Team Role;Tempo Team Role Custom Field;;;;;;;
+11403;com.tempoplugin.tempo-plan-core:tp.iteration.customfield;com.tempoplugin.tempo-plan-core:tp.iteration.searcher;Iteration;Iterationsfeld, nur für Benutzung mit Tempo Planner.;;;;;;;
+11405;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Status extern;Informativer Status in der externen Bearbeitung;;;;;;2025-01-13 17:29:07.200;1754.0
+11406;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Lösung extern;hier kann eine externe Lösung (z. B. bei Bearbeitung des Bugs durch msg) hinterlegt werden.;;;;;;2025-01-13 16:29:07.140;8293.0
+11500;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;CVE ID;Common Vulnerabilities and Exposures im Format CVE-JJJJ-nnnn, bis Ende 2013 ist die laufende Nummer fix 4-stellig, ab 2014 mindestens 4-stellig;;;;;;2025-01-07 16:15:18.100;474.0
+11501;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;SHA1-Hash;;;;;;;2023-02-10 14:05:26.937;19.0
+11502;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Dateiname;;;;;;;2024-08-22 20:21:13.037;48.0
+11600;com.atlassian.jira.plugins.jira-development-integration-plugin:devsummary;com.atlassian.jira.plugins.jira-development-integration-plugin:devsummarysearcher;Entwicklung;Entwicklungszusammenfassungsfeld nur zur Verwendung mit JIRA Software.;;;;;;2025-01-13 17:29:07.200;0.0
+11700;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Early-Life-Support-Beginn;;;;;;;2025-01-08 14:15:20.413;1178.0
+11701;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Early-Life-Support-Ende;;;;;;;2025-01-08 14:15:20.413;1177.0
+11702;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Ende Abnahmefrist;;;;;;;2025-01-08 14:15:20.413;1218.0
+11703;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Entwicklungsbeginn;;;;;;;2025-01-07 14:15:18.047;640.0
+11704;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Entwicklungsende;;;;;;;2025-01-08 14:15:20.413;1235.0
+11705;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Konzeptionsbeginn;;;;;;;2025-01-07 14:15:18.047;405.0
+11706;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Konzeptionsende;;;;;;;2025-01-07 14:15:18.047;370.0
+11707;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Release-Info (Detail);;;;;;;2023-12-18 15:13:22.593;414.0
+11708;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Release-Info (Vorab);;;;;;;2024-11-18 15:07:45.003;424.0
+11709;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Release-Info aktualisiert am;;;;;;;2024-12-17 14:15:23.070;65.0
+11710;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Rollout-Beginn;;;;;;;2025-01-08 14:15:20.413;1188.0
+11711;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Rollout-Ende;;;;;;;2025-01-08 14:15:20.413;1186.0
+11712;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Testbeginn;;;;;;;2025-01-13 08:29:06.543;1546.0
+11713;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Testende;;;;;;;2025-01-09 09:15:22.057;1428.0
+11714;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Fachlicher Anwendungsverantwortlicher;;;;;;;2025-01-09 16:15:22.600;1431.0
+11715;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Release-Manager;;;;;;;2025-01-13 16:29:07.140;31156.0
+11716;com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Testmanager;;;;;;;2025-01-08 14:15:20.413;1330.0
+11717;com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Stakeholder;;;;;;;2025-01-09 16:15:22.600;1912.0
+11718;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Abhängigkeit zu anderen Komponenten vorhanden?;;;;;;;2025-01-08 14:15:20.413;1230.0
+11720;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Infos für die Abnahme;;;;;;;2025-01-08 14:15:20.413;227.0
+11721;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Release-Info - Allgemeiner Teil;;;;;;;2025-01-08 14:15:20.413;144.0
+11723;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Rückfrage;;;;;;;2021-07-06 11:54:23.377;17.0
+11725;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Begründung Ablehnung Planung;;;;;;;2021-08-05 11:35:25.400;11.0
+11726;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Begründung Ablehnung Stornierung;;;;;;;2020-03-05 13:14:47.647;6.0
+11727;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Begründung Stornierung;;;;;;;2024-11-18 15:07:45.003;326.0
+11728;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Begründung Verweigerung Abnahme;;;;;;;;0.0
+11729;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Begründung Wiedereröffnung;;;;;;;2024-12-02 11:05:58.880;200.0
+11730;com.atlassian.jira.plugin.system.customfieldtypes:readonlyfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Replanning Note;;;;;;;2025-01-10 13:15:24.307;0.0
+11731;com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Neuplanung erforderlich?;Möchten Sie wirklich das Release neu planen?;;;;;;2025-01-08 14:15:20.413;402.0
+11800;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Server;;;;;;;2025-01-13 16:29:07.140;38297.0
+11801;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Artifact-ID;;;;;;;2021-06-25 16:20:29.027;6680.0
+11803;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;System-ID;;;;;;;2025-01-13 16:29:07.140;39240.0
+11804;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;System-Version;;;;;;;2025-01-13 16:29:07.140;39223.0
+11805;com.atlassian.jira.plugin.system.customfieldtypes:datetime;com.atlassian.jira.plugin.system.customfieldtypes:datetimerange;Deployment-Beginn;;;;;;;2025-01-13 16:29:07.140;38587.0
+11806;com.atlassian.jira.plugin.system.customfieldtypes:datetime;com.atlassian.jira.plugin.system.customfieldtypes:datetimerange;Deployment-Ende;;;;;;;2025-01-13 12:29:06.930;36125.0
+11807;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Deployer;;;;;;;2025-01-13 15:29:07.087;3281.0
+11808;com.coresoftlabs.component-picker:multi-component-picker;com.coresoftlabs.component-picker:multi-component-searcher;Zu welchen Komponenten besteht Abhängigkeit?;;;;;;;2024-12-17 16:15:23.447;279.0
+11809;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Deployment-Vorgehen;;;;;;;2025-01-13 16:29:07.140;38974.0
+11810;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Jenkins-Job-ID;;;;;;;2025-01-13 16:29:07.140;32440.0
+11811;tr.com.obss.selectissue.selectissue-jira:jql-filtered-field-lister-custom-field;tr.com.obss.selectissue.selectissue-jira:textsearcherformultiview;Zu welchen Releasen bestehen Abhängigkeiten?;Sofern Abhängigkeiten zu anderen Releasen bestehen, wählen Sie diese bitte aus.;;;;;;2022-12-13 10:05:24.513;59.0
+11900;com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Produktions-Deployment freigeben;Hiermit bestätige ich, dass für das in Produktion zu deployende Inkrement alle notwendigen Abnahmen vorliegen.;;;;;;2024-04-03 16:08:39.647;11563.0
+11903;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Branch;;;;;;;2025-01-13 16:29:07.140;32433.0
+11904;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;erforderliche Genehmiger;;;;;;;2025-01-13 16:29:07.140;32028.0
+11905;com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Branch-Berechtigungen;;;;;;;2025-01-13 16:29:07.140;32138.0
+11906;com.atlassian.jira.plugin.system.customfieldtypes:url;com.atlassian.jira.plugin.system.customfieldtypes:exacttextsearcher;Bitbucket-Link;;;;;;;2025-01-13 16:29:07.140;32447.0
+11907;com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Deployment angestossen;;;;;;;2022-12-21 16:39:19.703;24945.0
+12000;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Gemerkter Status;Merkfeld für Status;;;;;;2024-11-18 15:07:45.003;23034.0
+12001;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Prüfsumme;;;;;;;2025-01-13 15:29:07.087;22795.0
+12100;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Artifact-Version;;;;;;;2025-01-13 14:29:07.030;19221.0
+12200;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;technischer Name / Vorlage;;;;;;;2025-01-09 10:15:22.113;488.0
+12201;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Aufgabentyp;HR-Projekt;;;;;;2025-01-13 16:29:07.140;5314.0
+12202;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Testfall;Referenz(en) zur Testfall-ID;;;;;;2024-06-27 12:24:28.927;160.0
+12300;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Aufwandsbewertung;;;;;;;2024-12-18 10:15:24.873;348.0
+12301;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Aufwandschätzung C/S in PT;Feld für Individualprojekt OM-Anforderungsmanagement;;;;;;2023-03-29 08:05:40.537;63.0
+12400;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;darf kontaktiert werden;;;;;;;2021-08-26 09:21:37.397;0.0
+12401;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Ergebnis;;;;;;;2021-01-28 13:32:27.363;0.0
+12402;com.onresolve.jira.groovy.groovyrunner:hideable-textarea;;Userliste_hidden;"für Ideenmanagement; nicht mehr verwendet (23.06.2020)";;;;;;;
+12403;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Feature-ID;;;;;;;2024-09-23 11:14:53.983;1630.0
+12404;com.atlassian.jira.plugin.system.customfieldtypes:multiselect;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Arbeitstyp;;;;;;;2020-07-08 15:38:44.387;48.0
+12406;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Aufwandsschätzung POSY;Feld für Individualprojekt OM-Anforderungsmanagement;;;;;;2022-02-17 12:31:17.637;28.0
+12407;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Aufwandsschätzung DOPiX;Feld für Individualprojekt OM-Anforderungsmanagement;;;;;;2022-05-16 13:50:30.527;11.0
+12408;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Aufwandsschätzung Admin;Feld für Individualprojekt OM-Anforderungsmanagement;;;;;;2022-05-16 13:50:34.767;1.0
+12409;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Business Owner;Business Owner kennt die Anforderung, nimmt diese nach Umsetzung ab und stellt Tester zur Verfügung;;;;;;2025-01-09 16:15:22.600;892.0
+12410;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;AML: Kategorie;AML: Auswahl-Feld Anforderung/CR;;;;;;2025-01-09 09:15:22.057;619.0
+12411;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;AML: Aufwand msg;AML: Zahlenfeld für Aufwand msg;;;;;;2024-10-22 09:09:29.790;211.0
+12412;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;AML: Auswahlfeld fachliche Notwendigkeit;AML: Auswahlfeld für die fachliche Notwendigkeit;;;;;;2024-10-22 09:09:29.790;73.0
+12413;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Wunschtermin;Wunschtermin von Seiten der Anforderer;;;;;;2024-10-22 09:09:29.790;447.0
+12500;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Docker-Image;;;;;;;2025-01-13 16:29:07.140;11518.0
+12501;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Docker-Version;;;;;;;2025-01-13 16:29:07.140;11545.0
+12502;com.atlassian.jira.plugin.system.customfieldtypes:readonlyfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;LastUpdatedComment;Comment History field, do not use or add to screens;;;;;;2025-01-13 15:29:07.087;165577.0
+12503;com.atlassian.jira.plugin.system.customfieldtypes:readonlyfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;LastCreatedComment;Comment History field, do not use or add to screens;;;;;;2025-01-13 14:29:07.030;148263.0
+12504;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Aufwandsschätzung Konzeption/Analyse;Geschätzter Aufwand in Personentagen.;;;;;;2025-01-10 07:15:23.817;1717.0
+12505;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Aufwandsschätzung Entwicklung;Geschätzter Aufwand in Personentagen.;;;;;;2024-11-29 19:05:53.587;3939.0
+12506;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Restaufwand Konzeption/Analyse;Geschätzter Aufwand in Personentagen.;;;;;;2024-06-28 11:24:31.783;1074.0
+12507;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Aufwandsschätzung Sonstiges;Geschätzter Aufwand in Personentagen.;;;;;;2025-01-13 16:29:07.140;706.0
+12508;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Userliste;mehrzeiliges Textfeld für IDEA;;;;;;2021-07-21 16:55:53.740;0.0
+12509;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Deployment-Typ;Kennzeichnet den Änderungsumfang gemäß Semantic Versioning. Major = API-inkompatible Änderung, Minor = API-kompatible Änderung, Patch = API-kompatible Bugs, Hotfix = API-kompatibler Bugs für Produktion;;;;;;2025-01-13 16:29:07.140;29003.0
+12510;com.atlassian.jira.plugin.system.customfieldtypes:url;com.atlassian.jira.plugin.system.customfieldtypes:exacttextsearcher;Health-Check;;;;;;;2020-07-13 11:07:53.260;1.0
+12511;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Inkrement wird als Release deployt;Kennzeichnet, dass das zu deployende Inkrement eine Release- und keine Snapshot-Version ist.;;;;;;2025-01-13 16:29:07.140;28995.0
+12512;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Letzte abwärtskompatible Version;;;;;;;2025-01-13 15:29:07.087;9209.0
+12513;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;System-/Artifact-Version stabil;Kennzeichnet, ob die zu deployende System-/Artifact-Version seitens der Entwicklung als stabil für Umsysteme gesehen wird.;;;;;;2025-01-13 16:29:07.140;28992.0
+12600;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Briefnummer;;;;;;;2024-09-19 11:14:46.413;1609.0
+12601;com.atlassian.jira.plugin.system.customfieldtypes:project;com.atlassian.jira.plugin.system.customfieldtypes:projectsearcher;Geplant in;;;;;;;2025-01-13 14:29:07.030;5089.0
+12700;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Aufwandschätzung C/S in Story Points;Feld für Individualprojekt OM-Anforderungsmanagement;;;;;;2023-05-30 14:02:56.563;35.0
+12701;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;fachlicher Tester;für Projekt DOKUMENSTV;;;;;;2025-01-10 12:15:24.250;4265.0
+12800;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Nummer zu;z. B. Versicherungsschein / Auftrag / Schaden...;;;;;;2025-01-13 15:29:07.087;11403.0
+12801;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Omnitracker-ID;;;;;;;2025-01-13 15:29:07.087;1801.0
+12900;com.okapya.jira.checklist:checklist;com.okapya.jira.checklist:checklist-searcher;Checklisten;;;;;;;2025-01-13 17:29:07.200;275799.0
+13000;com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;fachliche Ansprechpartner;Ansprechpartner für Rückfragen;;;;;;2025-01-13 15:29:07.087;814.0
+13001;com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;technische Ansprechpartner;Ansprechpartner für Rückfragen;;;;;;2025-01-13 15:29:07.087;206.0
+13002;com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Nutzerkreis_Person;Teilnehmer an Reviews, Einbindung in Definition, Design und Umsetzung;;;;;;2023-10-18 09:12:36.963;278.0
+13003;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Beschreibung Nutzen;Bitte geben sie an welcher Qualitativer und welcher Quantitativer Nutzen zu erwarten ist. Zusätzlich sollten sie die Konsequenzen bei Nicht-Umsetzung beschreiben und begründen.;;;;;;2025-01-10 14:15:24.363;2591.0
+13100;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Relevanz UI / UX;;;;;;;2025-01-09 16:15:22.600;268641.0
+13101;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Relevanz Datenschutz;;;;;;;2025-01-10 18:15:24.563;268472.0
+13102;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Relevanz Mitbestimmungsgremien;;;;;;;2025-01-10 18:15:24.563;268456.0
+13103;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Relevanz Revision;;;;;;;2025-01-09 16:15:22.600;268622.0
+13104;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Relevanz Architektur;;;;;;;2025-01-09 15:15:22.393;268653.0
+13105;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Feature-Effektivität;Möglichkeit zu überprüfen, ob der Business Value eintritt;;;;;;2024-11-15 16:07:39.333;538.0
+13106;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Akzeptanzkriterien & Non Functional Requirements;;;;;;;2025-01-09 18:15:22.727;732.0
+13107;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Business Value;;;;;;;2025-01-13 15:29:07.087;1324.0
+13108;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Time Criticality;;;;;;;2025-01-09 15:15:22.393;1259.0
+13109;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;JobSize;;;;;;;2025-01-13 15:29:07.087;1298.0
+13110;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Opportunity Enablement / Risk Reduction;;;;;;;2025-01-13 15:29:07.087;1224.0
+13111;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;WSJF;(BV+TC+OERR) / JS;;;;;;2025-01-13 15:29:07.087;1113.0
+13112;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Dokumentverantwortlicher für PROD-Freigabe;;;;;;;2025-01-10 12:15:24.250;4208.0
+13113;com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;fachliche Tester;Führen fachliche Tests durch und können vom Business Owner angefragt werden.;;;;;;2025-01-13 15:29:07.087;2469.0
+13114;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Art der Anforderung;;;;;;;2025-01-09 15:15:22.393;2454.0
+13202;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Deployment-Zeiten;;;;;;;2022-12-21 15:46:35.183;31838.0
+13300;com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Stage;;;;;;;;0.0
+13301;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Artifact-ID (neu);;;;;;;2025-01-13 14:29:07.030;13208.0
+13303;com.coresoftlabs.component-picker:multi-component-picker;com.coresoftlabs.component-picker:multi-component-searcher;Whitelist SIT temporär;Kennzeichnet, für welche Komponenten temporär die Deployment-Regeln für SIT nicht gelten, z. B. für eine Deployment-Initialisierung;;;;;;2024-01-09 09:16:48.870;1.0
+13304;com.coresoftlabs.component-picker:multi-component-picker;com.coresoftlabs.component-picker:multi-component-searcher;Whitelist SIT dauerhaft;Kennzeichnet, für welche Komponenten dauerhaft die Deployment-Regeln für SIT nicht gelten, da dies hausweit abgestimmt ist, z. B. über die Architektur;;;;;;2023-08-24 10:06:41.570;2.0
+13305;com.coresoftlabs.component-picker:multi-component-picker;com.coresoftlabs.component-picker:multi-component-searcher;Whitelist VPRD temporär;Kennzeichnet, für welche Komponenten temporär die Deployment-Regeln für VPRD nicht gelten, z. B. für eine Deployment-Initialisierung;;;;;;2024-01-04 12:16:28.240;0.0
+13306;com.coresoftlabs.component-picker:multi-component-picker;com.coresoftlabs.component-picker:multi-component-searcher;Whitelist VPRD dauerhaft;Kennzeichnet, für welche Komponenten dauerhaft die Deployment-Regeln für VPRD nicht gelten, da dies hausweit abgestimmt ist, z. B. über die Architektur;;;;;;2022-11-18 16:18:18.407;2.0
+13307;com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Ticket schliessen;"Möchten Sie das Ticket wirklich schließen? 
+";;;;;;2024-07-03 14:09:52.957;20.0
+13308;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Administrator;Eintrag eines stellvertretenden Administrators (im Projekten DPL und DPLD);;;;;;2022-12-19 17:30:58.703;2.0
+13309;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Whitelist erfuellt;;;;;;;2025-01-13 16:29:07.140;249247.0
+13400;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Projektname;Der Name des zugeordneten Projekts.;;;;;;2024-12-13 12:12:02.387;185.0
+13401;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Imagepfad;Pfad im Artifactory auf das Image, z.B. artifactory:5000/image_sandbox/alpine-ca:3.12.2;;;;;;2024-12-13 12:12:02.387;4746.0
+13402;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;SHA256-Hash;Der SHA256-Hashwert aus Artifactory;;;;;;2022-09-23 15:51:45.117;4583.0
+13403;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Jenkins-Buildlauf;Die URL auf den Jenkins-Buildlauf.;;;;;;2021-10-19 14:41:13.090;54.0
+13404;com.okapya.jira.checklist:checklist;com.okapya.jira.checklist:checklist-searcher;editierbare Checkliste;;;;;;;2025-01-13 17:29:07.200;8951.0
+13406;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Ansprechpartner;;;;;;;2021-01-18 11:48:51.560;17.0
+13500;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;ErstellungsDatum-Merker;;;;;;;;0.0
+13501;com.coresoftlabs.component-picker:multi-component-picker;com.coresoftlabs.component-picker:multi-component-searcher;Whitelist PROD dauerhaft;Kennzeichnet, für welche Komponenten dauerhaft die Deployment-Regeln für PROD nicht gelten, da dies hausweit abgestimmt ist, z. B. über die Architektur;;;;;;;0.0
+13502;com.coresoftlabs.component-picker:multi-component-picker;com.coresoftlabs.component-picker:multi-component-searcher;Whitelist PROD temporär;Kennzeichnet, für welche Komponenten temporär die Deployment-Regeln für PROD nicht gelten, z. B. für eine Deployment-Initialisierung;;;;;;;0.0
+13600;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Jenkins-Buildläufe;Die Bildläufe im Jenkins;;;;;;2022-09-23 15:51:45.117;4561.0
+13601;com.atlassian.jira.plugin.system.customfieldtypes:datetime;com.atlassian.jira.plugin.system.customfieldtypes:datetimerange;Erledigt-Datum;angelegt für DOKUMENSTV;;;;;;2025-01-13 15:29:07.087;10671.0
+13700;com.atlassian.jira.plugin.system.customfieldtypes:labels;com.atlassian.jira.plugin.system.customfieldtypes:labelsearcher;DOPiX-Admin AP;Kennzeichnung von Anforderungen zu einem von dem Administratoren geschnürten Arbeitspaket für die interne Arbeitsstruktur;;;;;;2021-11-25 10:34:50.917;0.0
+13800;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Vorhabentyp;;;;;;;2025-01-10 08:15:23.870;191.0
+13801;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Scorewert;;;;;;;;4.0
+13802;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Anforderer;;;;;;;2025-01-13 13:29:06.980;1217.0
+13803;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Geschaeftseinheit;für Demandmanagement;;;;;;2025-01-09 12:15:22.230;1263.0
+13804;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Begründung Verworfen;;;;;;;2024-01-18 09:11:41.087;165.0
+13805;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;zurückgestellt bis;;;;;;;2024-11-21 15:08:33.640;35.0
+13807;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;Technischer Anwendungsverantwortlicher;;;;;;;2025-01-08 14:15:20.413;1118.0
+13808;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Testbeginn SIT;;;;;;;2025-01-03 15:09:42.320;807.0
+13809;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Testende SIT;;;;;;;2025-01-03 15:09:42.320;792.0
+13810;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Testbeginn VPRD;;;;;;;2025-01-08 14:15:20.413;974.0
+13811;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Testende VPRD;;;;;;;2025-01-08 14:15:20.413;969.0
+13900;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;icingaKey;Required for Icinga Integration;;;;;;2021-09-15 15:12:00.000;3.0
+13901;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;icingaStatus;Required for Icinga Integration.;;;;;;2022-07-19 10:59:37.003;3.0
+13902;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;geplantes Release_alt;"dieses Feld wird nicht mehr verwendet, dafür gibt es das Feld ""Geplantes Release"" (Version-Picker)";;;;;;2021-10-19 11:21:23.927;5.0
+13903;com.okapya.jira.checklist:checklist;com.okapya.jira.checklist:checklist-searcher;Definition of Done;;;;;;;2025-01-13 17:29:07.200;26420.0
+13904;com.atlassian.jira.plugin.system.customfieldtypes:labels;com.atlassian.jira.plugin.system.customfieldtypes:labelsearcher;Fachsendungsteil;Nummer für den Fachsendungsteil bzw. Druckstücknummer bzw. Briefnummer;;;;;;2025-01-10 12:15:24.250;0.0
+13905;com.atlassian.jira.plugin.system.customfieldtypes:labels;com.atlassian.jira.plugin.system.customfieldtypes:labelsearcher;Fachsendungsschlüssel;Eindeutige ID für eine Fachsendung;;;;;;2024-06-26 17:24:27.517;0.0
+13906;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Kategorie;Art der Aufgabe;;;;;;2024-06-26 17:24:27.517;3638.0
+13907;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;technischer Weg;Art des Briefes (Sendung);;;;;;2025-01-09 13:15:22.283;399.0
+14000;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Abgeleitet von;;;;;;;2021-08-19 09:20:21.177;3.0
+14100;com.atlassian.jira.plugin.system.customfieldtypes:labels;com.atlassian.jira.plugin.system.customfieldtypes:labelsearcher;ID Fachbereich;ID zur Auftragszuordnung aus dem FB;;;;;;2021-11-05 11:01:51.130;0.0
+14101;com.atlassian.jira.plugin.system.customfieldtypes:labels;com.atlassian.jira.plugin.system.customfieldtypes:labelsearcher;Freigabeschlüssel;;;;;;;2024-10-28 15:19:08.667;0.0
+14102;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Deploymentauftrag;;;;;;;2024-04-29 12:07:42.710;72254.0
+14200;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Restaufwand Entwicklung;Geschätzter Aufwand in Personentagen;;;;;;2024-06-28 11:24:31.783;887.0
+14300;com.atlassian.jira.plugin.system.customfieldtypes:cascadingselect;com.atlassian.jira.plugin.system.customfieldtypes:cascadingselectsearcher;Geschäftseinheit / OE (E2);Auftraggebende Geschäftseinheit / Operationseinheit;;;;;;2022-04-28 15:05:54.080;3.0
+14400;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Jenkins-Scanlauf;;;;;;;2024-12-13 12:12:02.387;95.0
+14401;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Scan-Ergebnis;;;;;;;2023-10-16 13:15:22.853;15.0
+14501;com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Cluster Zuordnung;Bitte kennzeichnen Sie zu welchem Cluster das Deployment gehört, bzw. auf welche Cluster das Deployment Auswirkungen hat;;;;;;2024-03-28 14:09:26.530;15756.0
+14600;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Angebotsnummer;;;;;;;2024-07-25 15:06:44.730;13.0
+14601;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Auftragsnummer;;;;;;;2024-11-29 07:05:52.827;1457.0
+14700;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Nutzerkreis;;;;;;;2025-01-13 15:29:07.087;404.0
+14701;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Wunsch-Quartal;gewünschtes Quartal für die Auslieferung (für AMAKAB );;;;;;2025-01-09 16:15:22.600;186.0
+14800;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;getestete Umgebung;;;;;;;2024-03-01 14:06:43.690;117.0
+14900;com.atlassian.jpo:jpo-custom-field-parent;com.atlassian.jpo:jpo-custom-field-parent-searcher;Parent Link;;;;;;;2025-01-09 15:15:22.393;0.0
+14901;com.atlassian.jpo:jpo-custom-field-baseline-start;com.atlassian.jpo:jpo-custom-field-baseline-start-searcher;Target start;The targeted start date. This custom field is created and required by Portfolio for Jira.;;;;;;2024-12-13 17:12:02.543;0.0
+14902;com.atlassian.jpo:jpo-custom-field-baseline-end;com.atlassian.jpo:jpo-custom-field-baseline-end-searcher;Target end;The targeted end date. This custom field is created and required by Portfolio for Jira.;;;;;;2025-01-10 09:15:23.927;0.0
+14903;com.atlassian.jpo:jpo-custom-field-original-story-points;com.atlassian.jpo:jpo-custom-field-original-story-points-searcher;Original story points;;;;;;;;0.0
+14904;com.atlassian.teams:rm-teams-custom-field-team;com.atlassian.teams:rm-teams-custom-field-team-searcher;Team;;;;;;;2025-01-13 17:29:07.200;0.0
+15000;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Program Increment;Program Increment field created by BigPicture;;;;;;;0.0
+15007;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Risk probability;Risk Probability field used by BigPicture plugin. (Only Issues with both, Risk Probability and Risk Consequence values selected will appear in Risk Matrix);;;;;;;0.0
+15008;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Risk consequence;Risk Consequence field used by BigPicture plugin. (Only Issues with both, Risk Probability and Risk Consequence values selected will appear in Risk Matrix);;;;;;;0.0
+15100;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Build Quality Gates;kennzeichnet, ob die Quality Gates für den Build-Lauf geprüft, erfüllt bzw. nicht erfüllt sind;;;;;;2022-12-20 10:06:16.303;648.0
+15101;com.coresoftlabs.component-picker:multi-component-picker;com.coresoftlabs.component-picker:multi-component-searcher;Whitelist Hotfix Build;kennzeichnet, für welche Komponenten im Falle eines Hotfixes die Quality Gates für den Build übersprungen werden dürfen;;;;;;2022-06-14 17:09:39.433;2.0
+15200;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Anmerkung;;;;;;;2022-08-16 11:00:44.603;2.0
+15300;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Undeploy;;;;;;;2025-01-09 14:15:22.340;22599.0
+15301;com.okapya.jira.checklist:checklist;com.okapya.jira.checklist:checklist-searcher;Definition of Ready;;;;;;;2025-01-13 17:29:07.200;21665.0
+15302;com.okapya.jira.checklist:checklist;com.okapya.jira.checklist:checklist-searcher;Akzeptanzkriterien;;;;;;;2025-01-13 17:29:07.200;16512.0
+15400;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Auftraggeber extern;für Auftraggeber ohne UserID;;;;;;2025-01-07 18:15:18.267;96.0
+15600;com.onresolve.jira.groovy.groovyrunner:multiple-issue-picker-cf;com.onresolve.jira.groovy.groovyrunner:configurablePickerSearcher;Initiative;mehrere Initiativen auswählbar;;;;;;2024-03-13 09:49:44.877;197.0
+15700;com.atlassian.jira.plugin.system.customfieldtypes:cascadingselect;com.atlassian.jira.plugin.system.customfieldtypes:cascadingselectsearcher;Risiko/Komplexität;;;;;;;2022-10-25 09:45:49.380;1.0
+15800;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Auswirkung / Konsequenz;;;;;;;2025-01-13 15:29:07.087;12709.0
+15900;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Fehlerbehebung durch;;;;;;;2023-01-10 15:06:23.370;25.0
+15901;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Ergebnis Recherche;;;;;;;2022-12-21 11:00:55.280;22.0
+16000;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Startdatum;;;;;;;2025-01-13 16:29:07.140;1409.0
+16100;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Fehlerursache;;;;;;;2025-01-13 13:29:06.980;8497.0
+16101;com.atlassian.jira.plugin.system.customfieldtypes:multiversion;com.atlassian.jira.plugin.system.customfieldtypes:versionsearcher;geplantes Release;Bitte tragen Sie hier das Release ein, in dem die Story/der Fehler umgesetzt werden soll.;;;;;;2025-01-13 16:29:07.140;9461.0
+16200;com.okapya.jira.checklist:checklist;com.okapya.jira.checklist:checklist-searcher;Checkliste-Initiative;;;;;;;2023-10-26 11:10:25.480;54.0
+16300;com.atlassian.jira.plugin.system.customfieldtypes:textfield;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;keycloak-client-id;;;;;;;2023-02-27 15:35:04.140;1.0
+16301;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;keycloak-environment;;;;;;;;1.0
+16302;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;keycloak-owner-primary;;;;;;;2023-02-27 15:35:04.140;1.0
+16303;com.atlassian.jira.plugin.system.customfieldtypes:userpicker;com.atlassian.jira.plugin.system.customfieldtypes:userpickergroupsearcher;keycloak-owner-secondary;;;;;;;2023-02-27 15:35:04.140;1.0
+16305;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;keycloak-realm;;;;;;;2023-02-27 15:35:04.140;1.0
+16306;com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;keycloak-stage;;;;;;;;1.0
+16401;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Gesamtstatus;;;;;;;2024-11-08 15:08:52.317;67.0
+16402;com.okapya.jira.checklist:checklist;com.okapya.jira.checklist:checklist-searcher;Abnahme - Checklist;;;;;;;2025-01-13 12:29:06.930;1125.0
+16403;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Abnahmebedingung/-einschränkung;;;;;;;2025-01-10 09:15:23.927;246.0
+16404;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Operativer Impact;;;;;;;2024-12-11 11:11:59.023;170.0
+16500;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;SubPrio_alt;;;;;;;2023-03-28 11:05:40.363;1.0
+16501;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;SubPrio;;;;;;;2025-01-13 08:29:06.543;489.0
+16600;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Sparten;;;;;;;2025-01-13 14:29:07.030;3915.0
+16700;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Config-Keys;;;;;;;2025-01-13 16:29:07.140;8224.0
+16800;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Programm;;;;;;;2024-11-28 11:05:51.453;125.0
+16900;com.okapya.jira.checklist:checklist;com.okapya.jira.checklist:checklist-searcher;Staging-Checkliste;;;;;;;2025-01-13 11:29:06.880;736.0
+17000;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;wait context;;;;;;;2025-01-13 16:29:07.140;45.0
+17001;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Testbeginn TEST;;;;;;;2025-01-07 14:15:18.047;291.0
+17002;com.atlassian.jira.plugin.system.customfieldtypes:datepicker;com.atlassian.jira.plugin.system.customfieldtypes:daterange;Testende TEST;;;;;;;2025-01-07 14:15:18.047;279.0
+17003;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Qualität;;;;;;;2023-10-25 14:10:24.170;84786.0
+17004;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Performance;;;;;;;2023-10-22 12:12:45.097;84784.0
+17005;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Funktion;;;;;;;2023-10-25 14:10:24.170;84775.0
+17101;com.atlassian.jira.plugin.system.customfieldtypes:multiselect;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Teamzuordnung;für AKAB, BTL und AMTECHST;;;;;;2025-01-13 17:29:07.200;3116.0
+17200;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Release-Typ;für Freigaben;;;;;;2025-01-13 14:29:07.030;1159.0
+17201;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Freigabe für;;;;;;;2025-01-13 14:29:07.030;1222.0
+17202;com.atlassian.jira.plugin.system.customfieldtypes:select;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;QG für Freigabe;;;;;;;2024-03-27 12:09:24.753;5.0
+17300;com.atlassian.jira.plugin.system.customfieldtypes:float;com.atlassian.jira.plugin.system.customfieldtypes:exactnumber;Anzahl Reopen;;;;;;;2025-01-02 10:09:40.067;227.0
+17401;com.atlassian.jira.plugin.system.customfieldtypes:project;com.atlassian.jira.plugin.system.customfieldtypes:projectsearcher;geplant in (Automation);für ADE zum Test;;;;;;2025-01-10 13:15:24.307;69.0
+17600;com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes;com.atlassian.jira.plugin.system.customfieldtypes:multiselectsearcher;Bestätigung;Verwerfen oder Ablehnen des Vorgangs bestätigen;;;;;;;0.0
+17700;com.atlassian.jira.plugin.system.customfieldtypes:textarea;com.atlassian.jira.plugin.system.customfieldtypes:textsearcher;Begründung Zurückgestellt;;;;;;;;1.0
