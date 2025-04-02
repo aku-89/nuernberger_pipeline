@@ -1,0 +1,9 @@
+# MS_cloudPipeline.ipynb zeigt im Detail wie die Pipeline funktioniert
+# Der Zugriff auf den Storage Account Container funktioniert über einen Schlüssel aus einer versteckten .env File
+
+
+# create_table_nuernberger.sql zeigt wie die Tabellen in der Azure SQL DB aufgebaut wurden
+# vorherige Schritte wie Database Scoped Credentials, MasterKey Encryption und External Data Sources wurden aus Sicherheitsgründen nicht inkludiert
+
+
+# requirements.txt zeigt standardmäßig was für die Virtual Environment verwendet wurde um es bei Interesse nachzubauen
